@@ -1,14 +1,10 @@
 Daniel Eduardo Muñiz
 daniel.muniz.arg@gmail.com
 
-Full code Assignment 1 https://github.com/danielemarg/Coursera_Capstone/blob/master/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.ipynb
-https://github.com/danielemarg/Coursera_Capstone/blob/master/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.ipynb
-Segmenting and Clustering Neighborhoods in Toronto
-
 # **The Battle of the Neighborhoods**
 Created with IBM Watson Studio
 
-Project for the <a href="Coursera's IBM Applied Data Science Capstone course">https://www.coursera.org/professional-certificates/ibm-data-science</a>
+Project for the <a href="https://www.coursera.org/professional-certificates/ibm-data-science">Coursera's IBM Applied Data Science Capstone Course</a>
 
 See full code in GitHub
 
