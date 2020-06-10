@@ -13,18 +13,6 @@ See full code in GitHub
 
 # Predicting Land Prices in Buenos Aires, Argentina
 
-This project contains multiple parts:
-
-A description of the problem and a discussion of the background (Week 1)
-
-A description of the data, source of the data, and how it will be used to solve the problem (Week 1)
-
-Methodology and Exploratory Data Analysis (Week 2)
-
-Inferential statistical testing (Week 2)
-
-Discussion and conclusion section. Observations and recommendations based on the results (Week 2)
-
 ## 1. Introduction and Discussion of the Business Objective and Problem
 
 ### The Task At Hand
@@ -70,7 +58,7 @@ Data visualization using various mapping libraries.
 Recomendations and results based on the data analysis.
 Discussion of any limitations and how the results can be used, and any conclusions that can be drawn.
 
-## Obteining and Exploring the Data
+## 3. Obteining and Exploring the Data
 
 After researching on the internet I found that the this project can be developed using open data provided by the Goverment of the City of Buenos Aires. 
 If you are interested in researching, you could find all the datasets regarding the City of Buenos Aires in this link:
@@ -87,6 +75,6 @@ For this this project I will use the following datasets:
 
 Analizing the Land prices dataset we obtein information about m2total (total square meters), barrio (neighborhood) and preciousdm (price per square meter in USD).
 
-## Initial Data Wrangling and Cleaning
+## 4. Initial Data Wrangling and Cleaning
 
 Following in Week 2...
