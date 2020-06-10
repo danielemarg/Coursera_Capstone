@@ -1,12 +1,13 @@
 # **The Battle of the Neighborhoods**
 Created with IBM Watson Studio
 
-Project for the <a href="Coursera's IBM Applied Data Science Capstone course">https://www.coursera.org/professional-certificates/ibm-data-science</a>
+Project for the <a href= "Coursera's IBM Applied Data Science Capstone course" >https://www.coursera.org/professional-certificates/ibm-data-science</a>
+
 See full code in GitHub
 
 # Predicting Land Prices in Buenos Aires Argentina
 
-This notebook contains multiple parts:
+This project contains multiple parts:
 
 A description of the problem and a discussion of the background (Week 1)
 
