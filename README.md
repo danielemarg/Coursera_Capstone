@@ -1,7 +1,7 @@
 # **The Battle of the Neighborhoods**
 Created with IBM Watson Studio
 
-Project for the <a href= "Coursera's IBM Applied Data Science Capstone course" >https://www.coursera.org/professional-certificates/ibm-data-science</a>
+Project for the <a href="Coursera's IBM Applied Data Science Capstone course">https://www.coursera.org/professional-certificates/ibm-data-science</a>
 
 See full code in GitHub
 
