@@ -1,6 +1,8 @@
 Daniel Eduardo Muñiz
 daniel.muniz.arg@gmail.com
 
+Full Code Assignment N° 1 HERE: <a href="https://github.com/danielemarg/Coursera_Capstone/blob/master/Segmenting%20and%20Clustering%20Neighborhoods%20in%20Toronto.ipynb">Segmenting and Clustering Neighborhoods in Torono</a>
+
 # **The Battle of the Neighborhoods**
 Created with IBM Watson Studio
 
