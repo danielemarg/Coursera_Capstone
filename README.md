@@ -70,3 +70,12 @@ Data visualization using various mapping libraries.
 Recomendations and results based on the data analysis.
 Discussion of any limitations and how the results can be used, and any conclusions that can be drawn.
 
+## Obteining the Data
+
+After researching on the internet I found that the this project can be developed using open data provided by the Goverment of the City of Buenos Aires. 
+If you are interested in researching, you could find all the datasets regarding the City of Buenos Aires in this link:
+<a href="https://data.buenosaires.gob.ar/dataset">Buenos Aires Data</a>
+For this this project I will use the following datasets:
+<a href="https://data.buenosaires.gob.ar/dataset/barrios">Neighborhoods of Buenos Aires (GeoJSON)</a>
+<a href="http://cdn.buenosaires.gob.ar/datosabiertos/datasets/terrenos-valor-de-oferta/precio-de-terrenos-2018.csv">Land Prices 2018 (CSV)</a>
+<a href="https://developer.foursquare.com/docs/">Location Data Foursquare API</a>
