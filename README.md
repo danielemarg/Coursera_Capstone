@@ -15,9 +15,9 @@ See full code in GitHub
 
 This project contains multiple parts:
 
-1. A description of the problem and a discussion of the background (Week 1)
+A description of the problem and a discussion of the background (Week 1)
 
-2. A description of the data, source of the data, and how it will be used to solve the problem (Week 1)
+A description of the data, source of the data, and how it will be used to solve the problem (Week 1)
 
 Methodology and Exploratory Data Analysis (Week 2)
 
