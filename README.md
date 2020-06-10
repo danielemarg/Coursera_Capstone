@@ -58,7 +58,7 @@ Data visualization using various mapping libraries.
 Recomendations and results based on the data analysis.
 Discussion of any limitations and how the results can be used, and any conclusions that can be drawn.
 
-## 3. Obteining and Exploring the Data
+## 3. Obtaining and Exploring the Data
 
 After researching on the internet I found that the this project can be developed using open data provided by the Goverment of the City of Buenos Aires. 
 If you are interested in researching, you could find all the datasets regarding the City of Buenos Aires in this link:
