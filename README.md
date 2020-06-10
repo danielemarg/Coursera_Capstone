@@ -46,7 +46,7 @@ The Data Science Workflow includes the following:
 To develop the project we need data regarding the neighborhoods in Buenos Aires, the surface in square meters and land prices per square meters in USD. We require to research the data and to identifify a suitable useable source. If it is found but is not in a useable form, data wrangling and cleaning will have to be performed.
 The  Foursquare data to build the multi-linear regression model exploring the number of venues near a piece of land is readily available. 
 
-•	**Obtain the Data:**
+•	**Obtain and Explore the Data:**
 
 Research and find suitable sources.
 Access and explore the data to determine if it can be manipulated for our purposes.
@@ -70,7 +70,7 @@ Data visualization using various mapping libraries.
 Recomendations and results based on the data analysis.
 Discussion of any limitations and how the results can be used, and any conclusions that can be drawn.
 
-## Obteining the Data
+## Obteining and Exploring the Data
 
 After researching on the internet I found that the this project can be developed using open data provided by the Goverment of the City of Buenos Aires. 
 If you are interested in researching, you could find all the datasets regarding the City of Buenos Aires in this link:
@@ -84,3 +84,9 @@ For this this project I will use the following datasets:
 <a href="http://cdn.buenosaires.gob.ar/datosabiertos/datasets/terrenos-valor-de-oferta/precio-de-terrenos-2018.csv">Land Prices 2018 (CSV)</a>
 
 <a href="https://developer.foursquare.com/docs/">Location Data Foursquare API</a>
+
+Analizing the Land prices dataset we obtein information about m2total (total square meters), barrio (neighborhood) and preciousdm (price per square meter in USD).
+
+## Initial Data Wrangling and Cleaning
+
+Following in Week 2...
