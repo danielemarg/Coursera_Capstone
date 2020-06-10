@@ -27,7 +27,7 @@ Discussion and conclusion section. Observations and recommendations based on the
 
 ## 1. Introduction and Discussion of the Business Objective and Problem
 
-### 1.1. The Task At Hand
+### The Task At Hand
 A Real Estate Agent, with a substantial e-commerce expertise in temporary apartments rent management, decided to diversify his business operations opening a new business branch of land sales to investors to build studio apartments. As a part of his strategy he has decided to be more informed and selective, and take the time to do some market research.
 I've been given the task of assisting him to make data-driven decision. This will be a major part of his decision-making process, the other being focused on the ground qualitative analysis.
 Since the temporary apartment rental market in Buenos Airs is expanding greatly, real estate investors seek to invest by building housing units that maximize their utility, the studio apartments. 
@@ -51,7 +51,7 @@ The  Foursquare data to build the multi-linear regression model exploring the nu
 Research and find suitable sources.
 Access and explore the data to determine if it can be manipulated for our purposes.
 
-•	**•	Initial Data Wrangling and Cleaning:**
+•	**Initial Data Wrangling and Cleaning:**
 
 Clean the data and convert to a useable form as a dataframe.
 
