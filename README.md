@@ -85,7 +85,7 @@ Analysing the descriptive statistics of the data i found that there are some row
 
 ## 5. Visualization
 
-´´´
+```
 # Find average price per square meter per neighborhood
 mean_by_neighborhood = df.groupby('barrio').mean()[['preciousdm']]
 
@@ -95,6 +95,10 @@ mean_by_neighborhood.reset_index(inplace=True)
 
 # The 10 most expensive neighborhoods.
 mean_by_neighborhood.sort_values(by='mean_m2_usd', ascending=False).head(10)
-´´´
+```
+The code above shows the 10 most expensive neighborhoods in Buenos Aires:
+
+![10exp](https://user-images.githubusercontent.com/66264525/84899411-02a62700-b07f-11ea-8881-1d51bdd5de95.png)
+
 
 
