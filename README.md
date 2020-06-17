@@ -100,6 +100,12 @@ The code above shows the 10 most expensive neighborhoods in Buenos Aires:
 
 ![10exp](https://user-images.githubusercontent.com/66264525/84899411-02a62700-b07f-11ea-8881-1d51bdd5de95.png)
 
-A Choropleth map is a great tool to visualize the land prices per neighborhood (<a href="https://nbviewer.jupyter.org/github/danielemarg/Coursera_Capstone/blob/master/Predicting%20land%20prices%20in%20BsAs%2C%20Argentina.ipynb">Full map in Notebook </a>):
+A Choropleth map is a great tool to visualize the land prices per neighborhood (<a href="https://nbviewer.jupyter.org/github/danielemarg/Coursera_Capstone/blob/master/Predicting%20land%20prices%20in%20BsAs%2C%20Argentina.ipynb">Full map HERE</a>):
 
 ![Map bsas](https://user-images.githubusercontent.com/66264525/84899910-b14a6780-b07f-11ea-8b8f-5a33adc89852.jpg)
+
+Let's see how data is distributed:
+
+![Hist](https://user-images.githubusercontent.com/66264525/84900551-a6440700-b080-11ea-862e-ac6e6dbb6234.png)
+
+![Scatter](https://user-images.githubusercontent.com/66264525/84900669-d1c6f180-b080-11ea-9cf0-e07f5e11ce5f.png)
