@@ -43,15 +43,15 @@ Access and explore the data to determine if it can be manipulated for our purpos
 
 Clean the data and convert to a useable form as a dataframe.
 
-•	**Data Analysis and Location Data:**
-
-Develop a simple linear model to predict the land prices.
-Foursquare location data will be leveraged to explore the total number of venues near a piece of land to improve our model. Build a multi-linear regression model.
-
 •	**Visualization:**
 
 Analysis and plotting visualizations.
 Data visualization using various mapping libraries.
+
+•	**Data Analysis and Location Data:**
+
+Develop a simple linear model to predict the land prices.
+Foursquare location data will be leveraged to explore the total number of venues near a piece of land to improve our model. Build a multi-linear regression model.
 
 •	**Discussion and Conclusions:**
 
@@ -76,8 +76,25 @@ For this this project I will use the following datasets:
 Analizing the Land prices dataset we obtain information about m2total (total square meters), barrio (neighborhood) and preciousdm (price per square meter in USD).
 
 ![Info](https://user-images.githubusercontent.com/66264525/84897946-d38eb600-b07c-11ea-8279-ae3bdf77ae63.jpg)
+
 ## 4. Initial Data Wrangling and Cleaning
 
 ![Wrangling](https://user-images.githubusercontent.com/66264525/84898341-79422500-b07d-11ea-9fc5-cf979d5ecf84.png)
 
-Analysis the descriptive statistics of the data i found that there are some rows where the m2total fields is 0, so i decided to drop that rows. 
+Analysing the descriptive statistics of the data i found that there are some rows where the m2total fields is 0, so i decided to drop that rows. 
+
+## 5. Visualization
+
+´´´
+# Find average price per square meter per neighborhood
+mean_by_neighborhood = df.groupby('barrio').mean()[['preciousdm']]
+
+mean_by_neighborhood.rename(columns={'preciousdm': 'mean_m2_usd'}, inplace=True)
+
+mean_by_neighborhood.reset_index(inplace=True)
+
+# The 10 most expensive neighborhoods.
+mean_by_neighborhood.sort_values(by='mean_m2_usd', ascending=False).head(10)
+´´´
+
+
