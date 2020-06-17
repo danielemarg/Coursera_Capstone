@@ -78,4 +78,6 @@ Analizing the Land prices dataset we obtain information about m2total (total squ
 ![Info](https://user-images.githubusercontent.com/66264525/84897946-d38eb600-b07c-11ea-8279-ae3bdf77ae63.jpg)
 ## 4. Initial Data Wrangling and Cleaning
 
-Following in Week 2...
+![Wrangling](https://user-images.githubusercontent.com/66264525/84898341-79422500-b07d-11ea-9fc5-cf979d5ecf84.png)
+
+Analysis the descriptive statistics of the data i found that there are some rows where the m2total fields is 0, so i decided to drop that rows. 
