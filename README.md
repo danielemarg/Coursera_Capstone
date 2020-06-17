@@ -123,6 +123,5 @@ Using that variable we can design a simple linear regression model to predict th
 Exploring the total venues near a piece of land using Foursquare API i could design a multi-linear regression model to predict the price of a land in Buenos Aires:
 
 ![Multi Reg](https://user-images.githubusercontent.com/66264525/84904188-67648000-b085-11ea-83e2-3f9687fd4713.jpg)
-
 <img src="https://render.githubusercontent.com/render/math?math=Price = 149433.32091537 %2B 930.15*m2total %2B 13295.40*venues">
 
