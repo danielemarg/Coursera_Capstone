@@ -76,7 +76,6 @@ For this this project I will use the following datasets:
 Analizing the Land prices dataset we obtain information about m2total (total square meters), barrio (neighborhood) and preciousdm (price per square meter in USD).
 
 ![Info](https://user-images.githubusercontent.com/66264525/84897946-d38eb600-b07c-11ea-8279-ae3bdf77ae63.jpg)
-
 ## 4. Initial Data Wrangling and Cleaning
 
 Following in Week 2...
