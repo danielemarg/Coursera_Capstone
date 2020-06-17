@@ -81,7 +81,8 @@ Analizing the Land prices dataset we obtain information about m2total (total squ
 
 ![Wrangling](https://user-images.githubusercontent.com/66264525/84898341-79422500-b07d-11ea-9fc5-cf979d5ecf84.png)
 
-Analysing the descriptive statistics of the data i found that there are some rows where the m2total fields is 0, so i decided to drop that rows. 
+Analyzing the descriptive statistics of the data i found that there are some rows where the m2total fields is 0, so i decided to drop that rows. 
+There are neither NANs nor null values. 
 
 ## 5. Visualization
 
@@ -109,3 +110,12 @@ Let's see how data is distributed:
 ![Hist](https://user-images.githubusercontent.com/66264525/84900551-a6440700-b080-11ea-862e-ac6e6dbb6234.png)
 
 ![Scatter](https://user-images.githubusercontent.com/66264525/84900669-d1c6f180-b080-11ea-9cf0-e07f5e11ce5f.png)
+
+## 6. Data Analysis and Location Data
+
+There is a strong positive linear correlation of 0.54 between the total square meters of the land and its price. 
+Using that variable we can design a simple linear regression model to predict the price of the land.
+
+![Simple Reg](https://user-images.githubusercontent.com/66264525/84902480-400cb380-b083-11ea-95f2-08c5312face9.png)
+
+
