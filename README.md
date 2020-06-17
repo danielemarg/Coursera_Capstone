@@ -125,3 +125,8 @@ Exploring the total venues near a piece of land using Foursquare API i could des
 ![Multi Reg](https://user-images.githubusercontent.com/66264525/84904188-67648000-b085-11ea-83e2-3f9687fd4713.jpg)
 <img src="https://render.githubusercontent.com/render/math?math=Price = 149433.32091537 %2B 930.15*m2total %2B 13295.40*venues">
 
+## 7. Discussion and Conclusions
+
+The objectives outlined in this phase of the project could be met, which can be verified in its development. The tools and models designed provide a solution to the defined business problem.
+Since this project is developed in stages, I can detect a possible improvement to it for future work, which would be to identify how the types of nearby venues affect the value of the land, to give greater precision to the model.
+Discussion of any limitations and how the results can be used, and any conclusions that can be drawn.
