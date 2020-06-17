@@ -18,8 +18,8 @@ Project for the <a href="https://www.coursera.org/professional-certificates/ibm-
 ### The Task At Hand
 A Real Estate Agent, with a substantial e-commerce expertise in temporary apartments rent management, decided to diversify his business operations opening a new business branch of land sales to investors to build studio apartments. As a part of his strategy he has decided to be more informed and selective, and take the time to do some market research.
 I've been given the task of assisting him to make data-driven decision. This will be a major part of his decision-making process, the other being focused on the ground qualitative analysis.
-Since the temporary apartment rental market in Buenos Airs is expanding greatly, real estate investors seek to invest by building housing units that maximize their utility, the studio apartments. 
-This project is part of a full data science and machine learning studio using other techniques, such as clustering, classification and recommendation systems. 
+Since the temporary apartment rental market in Buenos Aires is expanding greatly, real estate investors seek to invest in building housing units that maximize their utility, the studio apartments. 
+This project is a part of a full data science and machine learning studio using other techniques, such as clustering, classification and recommendation systems. 
 As requested, the main goals in this step of the project are: 
 -	Identify the most expensive neighborhoods through data analysis and visualization tools.
 -	Build a regression model for predicting land prices in Buenos Aires.
@@ -27,7 +27,7 @@ As requested, the main goals in this step of the project are:
 
 ## 2. The Data Science Workflow
 
-The Data Science Workflow includes the following:
+The Data Science Workflow for this project includes the following:
 
 •	**Outline the initial data that is required:**
 
@@ -45,8 +45,8 @@ Clean the data and convert to a useable form as a dataframe.
 
 •	**Data Analysis and Location Data:**
 
-Devolop a simple linear to predict the land prices.
-Foursquare location data will be leveraged to explore the number of venues near a piece of land to improve our model. Build a multi-linear regression model.
+Develop a simple linear model to predict the land prices.
+Foursquare location data will be leveraged to explore the total number of venues near a piece of land to improve our model. Build a multi-linear regression model.
 
 •	**Visualization:**
 
@@ -60,7 +60,7 @@ Discussion of any limitations and how the results can be used, and any conclusio
 
 ## 3. Obtaining and Exploring the Data
 
-After researching on the internet I found that the this project can be developed using open data provided by the Goverment of the City of Buenos Aires. 
+After researching on the internet I found that this project can be developed using open data provided by the Goverment of the City of Buenos Aires. 
 If you are interested in researching, you could find all the datasets regarding the City of Buenos Aires in this link:
 
 <a href="https://data.buenosaires.gob.ar/dataset">Buenos Aires Data</a>
@@ -73,7 +73,7 @@ For this this project I will use the following datasets:
 
 <a href="https://developer.foursquare.com/docs/">Location Data Foursquare API</a>
 
-Analizing the Land prices dataset we obtein information about m2total (total square meters), barrio (neighborhood) and preciousdm (price per square meter in USD).
+Analizing the Land prices dataset we obtain information about m2total (total square meters), barrio (neighborhood) and preciousdm (price per square meter in USD).
 
 ## 4. Initial Data Wrangling and Cleaning
 
