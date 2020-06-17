@@ -9,7 +9,7 @@ Created with IBM Watson Studio
 
 Project for the <a href="https://www.coursera.org/professional-certificates/ibm-data-science">Coursera's IBM Applied Data Science Capstone Course</a>
 
-See full code in GitHub
+<a href="https://nbviewer.jupyter.org/github/danielemarg/Coursera_Capstone/blob/master/Predicting%20land%20prices%20in%20BsAs%2C%20Argentina.ipynb">See full code in NbViewer</a>
 
 # Predicting Land Prices in Buenos Aires, Argentina
 
